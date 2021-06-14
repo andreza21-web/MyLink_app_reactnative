@@ -18,3 +18,7 @@
 
 <p>Baixe o arquivo em sua máquina logo após execute usando o IDE <a href="https://code.visualstudio.com/">Visual studio Code</a> usando CMD execute EXPO START, irá aparecer o link do localhost e também o código de QR code, execute em sua máquina usando o <a href="https://developer.android.com/studio?hl=pt&gclid=Cj0KCQjwnueFBhChARIsAPu3YkTMlL-VjNytnfLVNa645P8nHuP-0FbKhNkcXp63YFEbD64li3-hKH8aAu3xEALw_wcB&gclsrc=aw.ds">Android Studio</a> ou no seu próprio celular usando a <a href="https://expo.io/client">EXPO GO.</a> .</p>
 <h1>
+<h2> Aplicativo Sujeito Link</h2>
+<img src= "src/assets/mobile1.jpg" width=50%>
+<img src= "src/assets/mobile2.jpg"width=50%>
+<img src= "src/assets/mobile3.jpg"width=50%>
